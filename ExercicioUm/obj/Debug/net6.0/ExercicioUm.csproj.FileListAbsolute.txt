@@ -1,0 +1,15 @@
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.exe
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.deps.json
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.runtimeconfig.json
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.dll
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\bin\Debug\net6.0\ExercicioUm.pdb
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.csproj.AssemblyReference.cache
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.AssemblyInfoInputs.cache
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.AssemblyInfo.cs
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.csproj.CoreCompileInputs.cache
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.dll
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\refint\ExercicioUm.dll
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.pdb
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ExercicioUm.genruntimeconfig.cache
+D:\Dev em Dobro - portifólio\ExercicioUm\ExercicioUm\obj\Debug\net6.0\ref\ExercicioUm.dll
